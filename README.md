@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Rafaella Garcia 👋
 
 
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Desenvolvedor Web Júnior
 - 😄 Pronouns: ela/dela
 
 <div align="center">
